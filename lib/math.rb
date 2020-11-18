@@ -10,7 +10,7 @@ end
 
 def division(num1, num2)
   div = num2 / num1
-return = div
+  return = div
 end
 
 def multiplication(num1, num2)
@@ -19,9 +19,11 @@ def multiplication(num1, num2)
 end
 
 def modulo(num1, num2)
-
+  mod = num2 % num1
+  return mod
 end
 
 def square_root(num)
+  squa = num 
 
 end
